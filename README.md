@@ -78,7 +78,7 @@ Ground Station PC
 
 ## Wiring Summary
 
-> Full schematic available in [`/docs/gimbal-schematic.pdf`](docs/gimbal-schematic.pdf).
+> Full schematic available in [`/docs/Gimbal_motor_driver.pdf`](docs/Gimbal_motor_driver.pdf).
 
 ### SPI1 — Elevation Encoder (AS5048A)
 
